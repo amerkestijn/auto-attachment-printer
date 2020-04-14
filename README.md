@@ -19,7 +19,7 @@ apt-get install procmail fetchmail uudeview cups
 ```
 git clone https://github.com/amerkestijn/auto-attachment-printer.git
 ```
-When done cd into project and edit the following files and enter your information (what to edit is marked in the files)
+When done, cd into project and edit the following files and enter your information (what to edit is marked in the files)
 ```
 nano fetchmail.conf
 nano procmail.conf
