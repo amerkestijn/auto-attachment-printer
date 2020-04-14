@@ -58,6 +58,9 @@ We use it locally. No connection from outside our own network.
 * **Aron Merkestijn** - *Small edits & corrections* - (https://github.com/amerkestijn)
 
 If you have any questions regarding this script please contact me (https://github.com/amerkestijn), or create an issue.
+
 Mr.Hampel made this tutorial originally in 2015 on his own blog. 
+
 Because of changes over the years some commands & installations have changed, which is why i made this repo to simplify things for myself and others.
+
 You can find his original tutorial here: https://blog.thomashampel.com/blog/tomcat2000.nsf/dx/print-email-attachments-with-a-raspberrypi.htm
