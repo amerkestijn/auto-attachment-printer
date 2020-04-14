@@ -22,9 +22,9 @@ git clone https://github.com/amerkestijn/auto-attachment-printer.git
 When done, cd into project and edit the following files and enter your information (what to edit is marked in the files)
 ```
 nano fetchmail.conf
-nano procmail.conf
 nano printmail.sh
 ```
+It may be necessary to modify permissions. More info: https://www.linux.com/training-tutorials/understanding-linux-file-permissions/
 
 ### Run Script
 
