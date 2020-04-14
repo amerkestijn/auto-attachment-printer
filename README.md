@@ -1,6 +1,6 @@
 # Auto Attachment Printer
 
-Easy to use & simple script to automatically print PDF attachments from a mailbox.
+Easy to use & simple script to automatically print **PDF** attachments from a mailbox.
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ bash ./printmail.sh
 ### Create cronjob
 
 ```
-crontab -e -u USERNAME
+crontab -e -u YOUR-USERNAME
 ```
 
 ```
@@ -63,4 +63,5 @@ Mr.Hampel made this tutorial originally in 2015 on his own blog.
 
 Because of changes over the years some commands & installations have changed, which is why i made this repo to simplify things for myself and others.
 
-You can find his original tutorial here: https://blog.thomashampel.com/blog/tomcat2000.nsf/dx/print-email-attachments-with-a-raspberrypi.htm
+You can find his original tutorial here: 
+https://blog.thomashampel.com/blog/tomcat2000.nsf/dx/print-email-attachments-with-a-raspberrypi.htm
