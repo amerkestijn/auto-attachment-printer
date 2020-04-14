@@ -5,7 +5,7 @@ Easy to use & Simple script for automatically printing PDF attachments from an m
 ## Getting Started
 
 This script is made for Linux. It should be quite easy to change this code for Windows & Mac.
-We run this on multiple locations using Raspberry Pi Zero W 512MB. With a 16GB Sandisk Class10 SD-card.
+We run this on multiple locations using Raspberry Pi Zero W 512MB, 16GB Sandisk Class10 SD-card.
 Distro used: DietPi (Raspbian can also be used)
 
 ### Prerequisites
