@@ -1,14 +1,3 @@
-Made using:
-  Raspberry Pi Zero W 1x1Ghz 512MB RAM
-  16GB Sandisk Class10
-  DietPi
-
-Dep:
-  procmail
-  fetchmail
-  uudeview
-  cups
-  
 # Auto Attachment Printer
 
 Easy to use & Simple script for automatically printing PDF attachments from an mailbox.
