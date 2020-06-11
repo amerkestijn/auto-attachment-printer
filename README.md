@@ -50,7 +50,6 @@ sudo service cron restart
 ## Deployment
 
 Deploy this at your own risk.
-We use it locally. No connection from outside our own network.
 
 ## Authors & Credits
 
