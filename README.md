@@ -45,6 +45,11 @@ crontab -e -u YOUR-USERNAME
 ```
 #Exit out of crontab and restart cron
 sudo service cron restart
+
+#As i was using dietpi we need to enable cron.minutely
+sudo dietpi-cron
+
+#For the use of cron, give extended rights/chmod to the file: printmail.sh | Otherwise the cronjob cannot execute.
 ```
 
 ## Deployment
