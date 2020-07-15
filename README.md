@@ -11,7 +11,7 @@ Distro used: DietPi (Raspbian can also be used)
 ### Prerequisites
 
 ```
-apt-get install procmail fetchmail uudeview cups
+apt-get install procmail git fetchmail uudeview cups
 ```
 
 ### Installing
