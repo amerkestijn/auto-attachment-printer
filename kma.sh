@@ -1,7 +1,7 @@
 #!/bin/bash
 
 MY_PATH="`dirname \"$0\"`"              # relative
-LOG_PATH="`( cd \"$MY_PATH\" && cd .. && pwd )`/pi/log/network.log"
+LOG_PATH="`( cd \"$MY_PATH\" && cd .. && pwd )`/pi/netlog/network.log"
 now=$(date +"%m-%d %r")
 
 # Which Interface do you want to check
